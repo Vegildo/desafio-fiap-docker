@@ -22,8 +22,8 @@ Bem-vindo ao **Desafio FIAP Docker APP**! Neste repositório, você encontrará 
 
 1. Clone este repositório para sua máquina local.
 2. Abra o ubuntu no WSL do windows.
-3. Crie uma container e uma imagem.
-4. abra o navegador em localhost na porta escolhida.
+3. Crie uma container e uma imagem com `docker compose up`.
+4. Abra o navegador em localhost na porta escolhida, se receber a mensagem é porque está rodando.
 
 
 ### Créditos
